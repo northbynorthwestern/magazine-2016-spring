@@ -1,0 +1,7 @@
+article header.article-meta{
+    background-color: rgb(113,121,127);
+    height: 100%;
+    min-height: 400px;
+    padding-top: 250px;
+    color: white;
+}

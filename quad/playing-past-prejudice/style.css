@@ -1,0 +1,21 @@
+article header.article-meta{
+    background-color: #CBBDAB;
+    background-image: url(cover_2000.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    min-height: 1000px;
+    padding-top: 700px;
+    color: white;
+    text-shadow: 0 0 10px black;
+}
+
+.blackboard section h3{
+    padding-top: 0;
+    text-align: center;
+}
+
+.blackboard section h4{
+    text-align: center;
+    margin-bottom: 1.2em;
+}

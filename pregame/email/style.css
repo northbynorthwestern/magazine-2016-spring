@@ -1,0 +1,30 @@
+article header.article-meta{
+    background-color: rgb(165,213,241);
+    height: 100%;
+    min-height: 400px;
+    padding-top: 250px;
+    color: white;
+    text-shadow: 0 0 10px black;
+}
+
+.blackboard section{
+    border: 2px solid #555;
+    padding: 15px;
+    margin: 10px auto;
+}
+
+.blackboard section h4{
+    font-size: 1.4em;
+    margin-bottom: 1em;
+}
+
+.blackboard section p{
+    text-align: justify;
+}
+
+.blackboard .quote-author{
+    font-family: "Merriweather Sans", "Open Sans", sans-serif;
+    font-weight: 200;
+    text-align: right;
+    color: #595959;
+}

@@ -1,0 +1,11 @@
+article header.article-meta{
+    background-color: #E7DAD4;
+    background-image: url(cover_2000.jpg);
+    background-position: bottom;
+    background-size: cover;
+    height: 100%;
+    min-height: 900px;
+    padding-top: 600px;
+    color: white;
+    text-shadow: 0 0 10px black;
+}

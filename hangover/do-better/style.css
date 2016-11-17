@@ -1,0 +1,11 @@
+article header.article-meta{
+    background-color: rgb(126, 106, 173);
+    height: 100%;
+    min-height: 400px;
+    padding-top: 250px;
+    color: white;
+    text-shadow: 0 0 10px black;
+}
+
+.blackboard h3+p:not(.nodrop):first-letter{
+    

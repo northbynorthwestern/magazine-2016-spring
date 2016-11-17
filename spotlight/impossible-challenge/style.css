@@ -1,0 +1,19 @@
+article header.article-meta{
+    background-color: rgb(39,171,223);
+    background-image: url(cover_2000.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    min-height: 400px;
+    padding-top: 250px;
+    color: white;
+    text-shadow: 0 0 10px black;
+}
+
+.blackboard figure{
+    border-color: rgb(39,171,223) !important;
+}
+
+.blackboard .pullquote {
+    border-color: rgb(39,171,223) !important;
+}
